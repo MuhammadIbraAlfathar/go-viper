@@ -1,0 +1,12 @@
+{
+  "App" : {
+    "name" : "test",
+    "version" : "1.0.0",
+    "author" : "ibra"
+  },
+  "database" : {
+    "show_sql" : true,
+    "port" : 3306,
+    "host" : "localhost"
+  }
+}
